@@ -2,11 +2,11 @@ import './App.css'
 // They used bootstrap for an reponsive design
 import 'bootstrap/dist/css/bootstrap.min.css';
 // Components import
-import { Header } from './components/Header';
-import { B1 } from './components/B1';
-import Arrayofcards, { C1 } from './components/C1';
+import { Header } from './assets/components/Header';
+import { B1 } from './assets/components/B1';
+import Arrayofcards, { C1 } from './assets/components/C1';
 // Footer created not added in the main component
-import { Footer } from './components/Footer';
+import { Footer } from './assets/components/Footer';
 //States condition
 import { useState } from 'react';
 
