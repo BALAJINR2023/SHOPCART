@@ -47,7 +47,7 @@ const data=[
         value:<GoStarFill/>,
         style:"disable",
       },
-      price1:{
+    price1:{
         price1:"$40.00",
         style:"pable",
       },
